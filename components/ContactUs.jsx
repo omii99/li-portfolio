@@ -72,9 +72,9 @@ export const ContactUs = () => {
               <Col lg="8">
                 <Card className="bg-gradient-secondary shadow">
                   <CardBody className="p-lg-5">
-                    <h4 className="mb-1">Want to work with me?</h4>
+                    <h4 className="mb-1">Want to work with us?</h4>
                     <p className="mt-0">
-                      Reach out to me using the form below.
+                      Reach out to us using the form below.
                     </p>
                     <FormGroup className={classnames("mt-5", {})}>
                       <InputGroup className="input-group-alternative">
