@@ -74,7 +74,7 @@ export const ContactUs = () => {
                   <CardBody className="p-lg-5">
                     <h4 className="mb-1">Want to work with us?</h4>
                     <p className="mt-0">
-                      Reach out to us using the form below.
+                    Get in touch with us by filling out the form below.
                     </p>
                     <FormGroup className={classnames("mt-5", {})}>
                       <InputGroup className="input-group-alternative">

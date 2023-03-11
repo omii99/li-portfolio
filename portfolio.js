@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Innovynce Labs",
 	title: "Welcome to Innovynce Labs",
 	description:
-		"We're an axciting and diverse firm that works with organizations across the globe to create amazing technology solutions.",
+		"We craft cutting-edge technology solutions for clients worldwide. We collaborate closely to deliver efficient, reliable software development services that unlock technology's full potential.",
 	resumeLink:
 		"",
 };
@@ -24,20 +24,21 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "What We do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		"Customized software development services for web, mobile, cloud, and more.",
 	data: [
 		{
 			title: "Web Design & Web Development",
 			lottieAnimationFile: "/lottie/skills/lap.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"Design and Develop Creative Wordpress Websites"
+					"🚀 Our web design and web development services are designed to create customized solutions that meet your unique business needs and goals."
 				),
 				emoji(
-					"Building responsive Single-Page-Apps (SPA) & PWA in React.js"
+					"🚀 We specialize in creating responsive, user-friendly, and visually compelling websites that engage your audience and drive results."
 				),
-				emoji("Building responsive static websites using Next.js"),
-				
+				emoji("🚀 Our team of experts has extensive experience in a wide range of web development technologies, including HTML, CSS, JavaScript, PHP, and more."),
+				emoji("🚀 From ideation to execution, we work closely with you to understand your vision and deliver a website that exceeds your expectations and drives your business forward."),
+
 			],
 			softwareSkills: [
 				
@@ -84,9 +85,15 @@ export const skillsSection = {
 			title: "Mobile Application Development",
 			lottieAnimationFile: "/lottie/skills/mobile.json", // Path of Lottie Animation JSON File
 			skills: [
-				emoji("Design and Build Modern Apps"),
+				emoji("🚀 Our mobile application development services deliver customized solutions that are tailored to your unique business needs and goals."),
 				emoji(
-					"Building IOS/Andriod Apps"
+					"🚀 We have extensive experience developing apps for iOS and Android platforms, and we leverage the latest technologies and best practices to ensure that your app is reliable, scalable, and user-friendly."
+				),
+				emoji(
+					"🚀 Our team of experts works closely with you throughout the development process, from ideation to launch, to ensure that your app meets your expectations and exceeds your users' needs."
+				),
+				emoji(
+					"🚀 Our mobile application development services are backed by our commitment to quality, innovation, and continuous improvement, ensuring that you get the best possible results for your investment."
 				),
 			],
 			softwareSkills: [
@@ -111,10 +118,16 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/graphic.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"Designing UI/UX using Figma"
+					"🚀 Our graphic design services are designed to capture your brand's unique identity and messaging, creating a visually compelling and memorable experience."
 				),
 				emoji(
-					"Digital brand design for any business"
+					"🚀 We offer a wide range of design services, including logo design, print and digital marketing materials, packaging design, and more."
+				),
+				emoji(
+					"🚀 Our team of talented designers brings a fresh and creative perspective to every project, ensuring that your design stands out in a crowded marketplace."
+				),
+				emoji(
+					"🚀 From ideation to execution, we work closely with you to understand your vision and goals, and deliver designs that exceed your expectations and drive results."
 				)
 			],
 			softwareSkills: [
@@ -143,10 +156,16 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/project.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"Desgin and develop individual software projects"
+					"🚀 Our individual projects are driven by our passion for innovation and our desire to push the boundaries of technology."
 				),
 				emoji(
-					"Propersal writing and content writing"
+					"🚀 Our team of experts leverages cutting-edge technologies and best practices to create customized solutions that meet your unique needs and goals."
+				),
+				emoji(
+					"🚀 Whether you need a new app, website, or other digital product, we have the skills and experience to deliver exceptional results."
+				),
+				emoji(
+					"🚀 Our individual projects reflect our commitment to quality, creativity, and continuous learning, ensuring that we always stay ahead of the curve and exceed your expectations."
 				),
 				
 				
@@ -202,14 +221,14 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
-		grade: "Grade A",
+		schoolName: "",
+		subHeader: "",
+		duration: "",
+		desc: "",
+		grade: "",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"",
+			"",
 		],
 	},
 ];
@@ -220,19 +239,19 @@ export const experience = [
 export const projects = [
 	{
 		name: "E-commerce Website",
-		desc: "Nadara is a E-commerce website developed using Wordpress.",
+		desc: "Nadara is a dynamic E-commerce website, built on the flexible and intuitive Wordpress platform to provide a seamless online shopping experience.",
 		link: "https://nadara.ae/",
 	},
 	{
 		name: "Sign Language detection Mobile Application ",
-		desc: "This Mobile application build using Kotlin",
+		desc: "Our Sign Language detection Mobile Application, built using the Kotlin framework, enables real-time interpretation of sign language through a user-friendly and intuitive mobile interface, making communication more accessible and inclusive for all.",
 		github: "https://github.com/e-d-dyanfernando/PentaZen",
 	},
-	{
-		name: "Racing App",
-		desc: "",
-		github: "https://github.com/prabhasha1115/Racing-app/tree/main/racingApp",
-	},
+	// {
+	// 	name: "Racing App",
+	// 	desc: "",
+	// 	github: "https://github.com/prabhasha1115/Racing-app/tree/main/racingApp",
+	// },
 ];
 
 export const feedbacks = [
@@ -245,7 +264,7 @@ export const showContactUs = true;
 export const seoData = {
 	title: "Innovynce Labs",
 	description:
-		"We're an axciting and diverse firm that works with organizations across the globe to create amazing technology solutions.",
+		"We craft cutting-edge technology solutions for clients worldwide. We collaborate closely to deliver efficient, reliable software development services that unlock technology's full potential.",
 	author: "",
 	image: "",
 	url: "",
