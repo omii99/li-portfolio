@@ -31,13 +31,13 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/lap.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"🚀 Our web design and web development services are designed to create customized solutions that meet your unique business needs and goals."
+					"🔗 Our web design and web development services are designed to create customized solutions that meet your unique business needs and goals."
 				),
 				emoji(
-					"🚀 We specialize in creating responsive, user-friendly, and visually compelling websites that engage your audience and drive results."
+					"🔗 We specialize in creating responsive, user-friendly, and visually compelling websites that engage your audience and drive results."
 				),
-				emoji("🚀 Our team of experts has extensive experience in a wide range of web development technologies, including HTML, CSS, JavaScript, PHP, and more."),
-				emoji("🚀 From ideation to execution, we work closely with you to understand your vision and deliver a website that exceeds your expectations and drives your business forward."),
+				emoji("🔗 Our team of experts has extensive experience in a wide range of web development technologies, including HTML, CSS, JavaScript, PHP, and more."),
+				emoji("🔗 From ideation to execution, we work closely with you to understand your vision and deliver a website that exceeds your expectations and drives your business forward."),
 
 			],
 			softwareSkills: [
@@ -85,15 +85,15 @@ export const skillsSection = {
 			title: "Mobile Application Development",
 			lottieAnimationFile: "/lottie/skills/mobile.json", // Path of Lottie Animation JSON File
 			skills: [
-				emoji("🚀 Our mobile application development services deliver customized solutions that are tailored to your unique business needs and goals."),
+				emoji("🔗 Our mobile application development services deliver customized solutions that are tailored to your unique business needs and goals."),
 				emoji(
-					"🚀 We have extensive experience developing apps for iOS and Android platforms, and we leverage the latest technologies and best practices to ensure that your app is reliable, scalable, and user-friendly."
+					"🔗 We have extensive experience developing apps for iOS and Android platforms, and we leverage the latest technologies and best practices to ensure that your app is reliable, scalable, and user-friendly."
 				),
 				emoji(
-					"🚀 Our team of experts works closely with you throughout the development process, from ideation to launch, to ensure that your app meets your expectations and exceeds your users' needs."
+					"🔗 Our team of experts works closely with you throughout the development process, from ideation to launch, to ensure that your app meets your expectations and exceeds your users' needs."
 				),
 				emoji(
-					"🚀 Our mobile application development services are backed by our commitment to quality, innovation, and continuous improvement, ensuring that you get the best possible results for your investment."
+					"🔗 Our mobile application development services are backed by our commitment to quality, innovation, and continuous improvement, ensuring that you get the best possible results for your investment."
 				),
 			],
 			softwareSkills: [
@@ -118,16 +118,16 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/graphic.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"🚀 Our graphic design services are designed to capture your brand's unique identity and messaging, creating a visually compelling and memorable experience."
+					"🔗 Our graphic design services are designed to capture your brand's unique identity and messaging, creating a visually compelling and memorable experience."
 				),
 				emoji(
-					"🚀 We offer a wide range of design services, including logo design, print and digital marketing materials, packaging design, and more."
+					"🔗 We offer a wide range of design services, including logo design, print and digital marketing materials, packaging design, and more."
 				),
 				emoji(
-					"🚀 Our team of talented designers brings a fresh and creative perspective to every project, ensuring that your design stands out in a crowded marketplace."
+					"🔗 Our team of talented designers brings a fresh and creative perspective to every project, ensuring that your design stands out in a crowded marketplace."
 				),
 				emoji(
-					"🚀 From ideation to execution, we work closely with you to understand your vision and goals, and deliver designs that exceed your expectations and drive results."
+					"🔗 From ideation to execution, we work closely with you to understand your vision and goals, and deliver designs that exceed your expectations and drive results."
 				)
 			],
 			softwareSkills: [
@@ -156,16 +156,16 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/project.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"🚀 Our individual projects are driven by our passion for innovation and our desire to push the boundaries of technology."
+					"🔗 Our individual projects are driven by our passion for innovation and our desire to push the boundaries of technology."
 				),
 				emoji(
-					"🚀 Our team of experts leverages cutting-edge technologies and best practices to create customized solutions that meet your unique needs and goals."
+					"🔗 Our team of experts leverages cutting-edge technologies and best practices to create customized solutions that meet your unique needs and goals."
 				),
 				emoji(
-					"🚀 Whether you need a new app, website, or other digital product, we have the skills and experience to deliver exceptional results."
+					"🔗 Whether you need a new app, website, or other digital product, we have the skills and experience to deliver exceptional results."
 				),
 				emoji(
-					"🚀 Our individual projects reflect our commitment to quality, creativity, and continuous learning, ensuring that we always stay ahead of the curve and exceed your expectations."
+					"🔗 Our individual projects reflect our commitment to quality, creativity, and continuous learning, ensuring that we always stay ahead of the curve and exceed your expectations."
 				),
 				
 				
